@@ -1,2 +1,6 @@
 # jcorfer363
-My personal repository.
+Soy un desarrollador de aplicaciones multiplataforma con experiencia en el diseño, desarrollo e implementación de proyectos propios. A su vez, he completado un curso de especialización en Big Data.
+<br><br>
+Mi perfil técnico incluye un dominio avanzado de lenguajes como Python y Java, así como herramientas y librerías especializadas como Pandas, Matplotlib o SeaBorn. En el curso de especialización he aprendido a trabajar con tecnologías del sector de BigData como MongoDB, Neo4j, Apache NiFi y Apache Kafka. Además, cuento con experiencia en el uso de entornos de desarrollo como JupyterLab o Eclipse para análisis de datos y desarrollo de aplicaciones.
+<br><br>
+Además de mi perfil técnico, valoro profundamente el trabajo en equipo, ya que creo que la colaboración y el intercambio de ideas son esenciales para lograr metas comunes. También destaco por mi habilidad para organizar el tiempo de manera efectiva, lo que me permite gestionar proyectos con eficiencia y cumplir con los plazos establecidos. Mi punto débil es que soy demasiado obstinado, y estoy aprendiendo a tomar pequeños descansos estratégicos, ya que esto me permite abordar los problemas con una perspectiva renovada y más efectiva. 
